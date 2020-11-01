@@ -7,7 +7,7 @@ int main()
     //clear console output
     system("clear");
     //menampilkan output pada console susuai perintah yang dibuat
-    printf("SELAMAT DATANG DI SEA CORP\n28 SEPTEMBER\nCUCA CERAH");
+    printf("SELAMAT DATANG DI SEA CORP\n28 SEPTEMBER\nCUACA CERAH");
 
     return 0;
 }
