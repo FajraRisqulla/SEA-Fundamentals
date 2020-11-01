@@ -1,9 +1,0 @@
-{
-    "window.zoomlevel": 1,
-    "editor.fontSize": 18,
-    "terminal.integrated.fontSize": 18,
-    //"workbench.colorTheme": "Noctis Minimus",
-    "workbench.iconTheme": "vscode-icons",
-    "python.pythonPath": "/usr/bin/python",
-    "python.linting.enabled": true,
-}
